@@ -1,2 +1,6 @@
 # PROC104-V1-actividad-maestra3
-REFERENCIA PROC104-V1-actividad-maestra3 ¿CÓMO VEN LAS COMPUTADORAS EL MUNDO? 2D grises y 3D RGB 
+Python. OpenCV. Código de referencia.
+  
+Lesson plan.
+  
+### Texto en inglés: PRO-104-Reference-Code
